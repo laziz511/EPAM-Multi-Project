@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd00b3ee-0241-4f75-bd49-a3f4cd3018a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ter" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../learning-jdbc/src/main/java/com/frankmoley/lil/jdbc/Customer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../learning-jdbc/src/main/java/com/frankmoley/lil/jdbc/CustomerDAO.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../learning-jdbc/src/main/java/com/frankmoley/lil/jdbc/Order.java" afterDir="false" />
@@ -12,6 +13,8 @@
       <change afterPath="$PROJECT_DIR$/../../../learning-jdbc/src/main/java/com/frankmoley/lil/jdbc/OrderLine.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../learning-jdbc/src/main/java/com/frankmoley/lil/jdbc/util/DataAccessObject.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../learning-jdbc/src/main/java/com/frankmoley/lil/jdbc/util/DataTransferObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +33,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XZc8PZdiXNhyULDy2Uwho985wv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
@@ -52,6 +58,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Hp\IdeaProjects\Epam\GradleModule\GradleTask\core\libs" />
       <recent name="C:\Users\Hp\Downloads\epam-multi-module-main\epam-multi-module-main\core\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\IdeaProjects\Epam\GradleModule\GradleTask" />
     </key>
   </component>
   <component name="RunManager">
@@ -97,5 +106,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
