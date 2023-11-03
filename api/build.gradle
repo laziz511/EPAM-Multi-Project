@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+group = 'com.epam'
+version = '1.0-SNAPSHOT'
+
+java {
+    toolchain.languageVersion.set(JavaLanguageVersion.of(18))
+}
+
+dependencies {
+    implementation project(':core')
+    testImplementation platform('org.junit:junit-bom:5.9.2')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+application {
+    mainClass = 'src/main/java/com/epam/App.java'
+}
+
+repositories {
+    mavenCentral()
+}
