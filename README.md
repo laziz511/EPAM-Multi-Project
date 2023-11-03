@@ -1,5 +1,5 @@
 # multi-project
  
-Task on multi-project using Gradle as a built tool.
+Task of Gradle module (multi-project).
 
 ### EPAM Lab
