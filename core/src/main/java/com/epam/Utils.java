@@ -1,11 +1,9 @@
 package com.epam;
 
+import java.util.Arrays;
+
 public class Utils {
-    public static boolean isAllPositiveNumber(String... str) {
-        for (String s : str) {
-            if (!StringUtils.isPositiveNumber(s))
-                return false;
-        }
-        return true;
+    public static boolean isAllPositiveNumbers(String... str) {
+       return Arrays.stream(str).allMatch(Utils::isAllPositiveNumbers);
     }
 }
